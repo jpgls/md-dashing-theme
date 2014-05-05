@@ -100,29 +100,4 @@ I've also built out a version of this theme for [FoldingText](http://www.folding
 Probably easiest to find me on Twitter if you feel so inclined. [@designerJordan](https://twitter.com/designerjordan)
 
 ## Mundane but Important
-Dashing Theme is released under the MIT license and is copyright 2014 Jordan Pagels. A big tip of the hat to [Bootstrap](http://getbootstrap.com/getting-started/#license-faqs) for the plain-text overview of what that basically means.
-
-**It requires you to:**
-
-* Include the license and copyright notice in your works
-
-**It permits you to:**
-
-* Freely download and use Dashing Theme, in whole or in part, for personal, private, company internal, or commercial purposes
-* Use Dashing Theme in packages or distributions that you create
-* Modify the source code
-* Grant a sublicense to modify and distribute Dashing Theme to third parties not included in the license
-
-**It forbids you to:**
-
-* Hold the author(s) and license owner(s) liable for damages as Dashing Theme is provided without warranty
-* Hold the creator(s) or copyright holder(s) of Dashing Theme liable
-* Redistribute any piece of Dashing Theme without proper attribution
-* Use any marks owned by the creator or copyright holder in any way that might state or imply that I endorse your distribution
-* Use any marks owned by the creator or copyright holder in any way that might state or imply that you created the theme in question
-
-**It does not require you to:**
-
-* Include the source of Dashing Theme itself, or of any modifications you may have made to it, in any redistribution you may assemble that includes it
-* Submit changes that you make to Dashing Theme back to the project (though such feedback is encouraged)
-* The full license is located in the project repository for more information.
+Dashing Theme is released under the MIT license and is copyright 2014 Jordan Pagels. The full license is located in the project repository for more information.
