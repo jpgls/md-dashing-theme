@@ -3,7 +3,7 @@
 ## General Overview
 This is an original, custom theme designed to work with several current Markdown Editors and Viewers.
 
-It is a dark theme intended to convey clear hierarchy and scannability, while being easy on the eyes over extended periods of time.
+<!-- It is a dark theme intended to convey clear hierarchy and scannability, while being easy on the eyes over extended periods of time. -->
 
 ![](http://jpgls.com/md-dashing-theme/example-images/LightPaper.png)
 
@@ -11,7 +11,7 @@ It is a dark theme intended to convey clear hierarchy and scannability, while be
 ---  
 Ideally, this theme is intended to make use of Adobe's Open Source fonts, **Adobe Source Sans Pro** and **Adobe Source Code Pro**. You can check out the **GitHub** Projects ([code](https://github.com/adobe/source-code-pro) - [sans](https://github.com/adobe/source-sans-pro)) or download the OTF files directly from **SourceForge** ([code](http://sourceforge.net/projects/sourcecodepro.adobe/files/) - [sans](http://sourceforge.net/projects/sourcesans.adobe/files/)). The easiest way to install the fonts though, is using Typekit ([code](https://typekit.com/fonts/source-code-pro) - [sans](https://typekit.com/fonts/source-sans-pro)) - assuming you have an account either directly or through Creative Cloud.
 
-Alternate fallbacks have been defined in the stylesheet, but, well, I'll totally judge you for using them.
+Alternate fallbacks have been defined in the stylesheet, but, I really would encourage you to get the *Source* fonts.
 
 ### Applications
 ---  
@@ -19,7 +19,7 @@ This theme was originally created for **[LightPaper](http://clockworkengine.com/
 
 ![](http://jpgls.com/md-dashing-theme/example-images/LightPaper.png) 
 
-I've also verified that it works well with:  
+Thanks to [@staudi](https://github.com/Staudi)'s [Clearness Dark+ Theme](https://github.com/Staudi/Clearness-Dark-Plus) and it's documentation, I discovered that it also works well with:  
 
 #### [MOU](http://mouapp.com/)
 
@@ -33,14 +33,27 @@ I've also verified that it works well with:
 
 ![](http://jpgls.com/md-dashing-theme/example-images/qlmarkdown-quicklook.png)
 
-Installing it as a theme for QLMarkdown will also affect the Finder Previews of MarkDown Files
+Installing it as a theme for QLMarkdown will have an effect the Finder Previews of MarkDown Files as well.
 
 ![](http://jpgls.com/md-dashing-theme/example-images/qlmarkdown-finderPreview.png)
 
-In theory, this theme should also play nicely with any other markdown apps that use CSS to style the preview, and TXT files for the theme of the editor. If you happen to try it in any, I'd love to know how it turns out. If you would like to request support for any other apps, let me know and we can take a look. Contact info is at the bottom of this doc.
+In theory, this theme should also play nicely with any other markdown apps that use CSS to style the preview, and TXT files for the theme of the editor. If you happen to try it in any, I'd love to know how it turns out.
 
 #### Fun Fact
-I've also built out a version of this theme for [FoldingText](http://www.foldingtext.com/) which is also on GitHub at this link: [ft-dashing-theme](https://github.com/designerJordan/ft-dashing-theme)
+I'm also building out a version of this theme for [FoldingText](http://www.foldingtext.com/) which is available in this repo: [ft-dashing-theme](https://github.com/designerJordan/ft-dashing-theme)
+
+I've been tinkering with these fonts and colors for quite a while, across most apps I use regularly that allow for much customization of their appearance. I hope to continue rounding them up, polishing things, and sharing them. Apps that are hopefully coming sometime sort of soon-ish include:
+
+* OmniGraffle
+* OmniOutliner
+* OmniFocus
+* Sublime Text 3/2
+* iTerm 2
+* Alfred
+* Path Finder
+* LibreOffice
+
+If you would like to request support for any other apps, let me know and we can take a look. Contact info is at the bottom of this doc.
 
 ## Installation
 
