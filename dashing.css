@@ -1,0 +1,136 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 24px;
+    color: rgb(205, 229, 218);
+    background-color: rgb(39, 33, 35);
+    margin: 10px 13px 10px 13px;
+}
+a {
+    color: rgb(118, 161, 154);
+}
+a:hover {
+    background-color: rgb(118, 161, 154);
+    color: rgb(18, 15, 17);
+    text-decoration: none;
+}
+a img {
+    border: none;
+}
+p {
+    margin-bottom: 9px;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 200;
+    color: rgb(118, 161, 154);
+    line-height: 36px;
+    text-transform: uppercase;
+}
+h1 {
+    margin-bottom: 4px;
+    font-size: 42px;
+    line-height: 42px;
+}
+h2 {
+    margin-bottom: 14px;
+    font-size: 26px;
+    line-height: 26px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+h3 {
+    font-size: 20px;
+    text-transform: uppercase;
+}
+h4 {
+    font-size: 18px;
+    font-weight: 800;
+    text-transform: uppercase;
+}
+h5 {
+    font-size: 16px;
+    font-weight: 800;
+    text-transform: uppercase;
+}
+h6 {
+    font-size: 14px;
+    font-weight: 800;
+    text-transform: uppercase;
+}
+hr {
+    margin: 0 0 19px;
+    border: 0;
+    border-bottom: 1px solid rgb(118, 161, 154);
+}
+blockquote {
+    padding: 13px 13px 21px 15px;
+    margin-bottom: 18px;
+    /*font-family:georgia,serif;*/
+    font-style: italic;
+}
+blockquote:before {
+    content:"\201C";
+    font-size:40px;
+    margin-left:-10px;
+    /*font-family:georgia,serif;*/
+    color:rgb(217, 89, 61);
+}
+blockquote p {
+    font-size: 17px;
+    font-weight: 300;
+    line-height: 18px;
+    margin-bottom: 0;
+    font-style: italic;
+}
+code, pre {
+    font-family: 'Source Code Pro', Monaco, Andale Mono, Courier New, monospace;
+}
+code {
+    background-color: rgb(18, 15, 17);
+	color: rgb(118, 161, 154);
+    padding: 1px 3px;
+    font-size: 12px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
+pre {
+    background-color: rgb(18, 15, 17);
+    display: block;
+    padding: 17px;
+    margin: 0 0 18px;
+    line-height: 16px;
+    font-size: 12px;
+    border: 1px solid rgb(118, 161, 154);
+    white-space: pre;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+pre code {
+    color: #ff4a14;
+    font-size: 12px;
+    padding: 0;
+}
+@media screen and (min-width: 768px) {
+    body {
+        width: 748px;
+        margin:10px auto;
+    }
+}
