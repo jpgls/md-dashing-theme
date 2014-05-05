@@ -33,7 +33,7 @@ Thanks to [@staudi](https://github.com/Staudi)'s [Clearness Dark+ Theme](https:/
 
 ![](http://jpgls.com/md-dashing-theme/example-images/qlmarkdown-quicklook.png)
 
-Installing it as a theme for QLMarkdown will have an effect the Finder Previews of MarkDown Files as well.
+Installing it as a theme for QLMarkdown will have an effect on the Finder Previews of MarkDown Files as well.
 
 ![](http://jpgls.com/md-dashing-theme/example-images/qlmarkdown-finderPreview.png)
 
