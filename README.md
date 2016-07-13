@@ -110,7 +110,7 @@ If you would like to request support for any other apps, let me know and we can 
 * Rename `dashing.css` to `style.css`
 
 ## Contact
-Probably easiest to find me on Twitter if you feel so inclined. [@designerJordan](https://twitter.com/designerjordan)
+Probably easiest to find me on Twitter should you be so inclined. [@designerJordan](https://twitter.com/designerjordan)
 
 ## Mundane but Important
 Dashing Theme is released under the MIT license and is copyright 2014 Jordan Pagels (@designerJordan). The full license is located in the project repository for more information.
